@@ -1,0 +1,6 @@
+{
+  "name": "Cut The Code",
+  "description": "Landing page oficial do Hackathon Microcrédito BNDES — uma maratona de inovação voltada ao desenvolvimento de soluções para o ecossistema de microcrédito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
