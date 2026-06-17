@@ -98,9 +98,5 @@ Desenvolvi o projeto seguindo rígidos critérios de segurança de arquitetura e
 
 ---
 
-## 🌐 Conclusão e Legado
-
-Este portal é mais do que um simples software de visualização; é um registro vivo de metodologias que unem corporações, investidores, designers, e resolvedores de problemas à base da nossa pirâmide econômica. 
-
-*Desenvolvido com carinho, rigor de código e foco em impacto social.*  
+Desenvolvido por: Matheus Martendal e Sai do Papel
 **BNDES & SAI DO PAPEL, 2023.**
